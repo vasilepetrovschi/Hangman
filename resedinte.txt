@@ -1,0 +1,81 @@
+Cluj|Cluj Napoca
+
+Salaj|Zalau
+
+Satu Mare|Satu Mare
+
+Maramures|Baia Mare
+
+Bistrita Nasaud|Bistrita
+
+Bihor|Oradea
+
+Arad|Arad
+
+Timis|Timisoara
+
+Caras Severin|Resita
+
+Mehedinti|Drobeta Turnu Severin
+
+Hunedoara|Deva
+
+Suceava|Suceava
+
+Botosani|Botosani
+
+Neamt|Piatra Neamt
+
+Iasi|Iasi
+
+Bacau|Bacau
+
+Vrancea|Focsani
+
+Vaslui|Vaslui
+
+Galati|Galati
+
+Mures|Targu Mures
+
+Harghita|Miercurea Ciuc
+
+Brasov|Brasov
+
+Alba|Alba Iulia
+
+Covasna|Sfantu Gheorghe
+
+Sibiu|Sibiu
+
+Valcea|Ramnicu Valcea
+
+Dambovita|Targoviste
+
+Buzau|Buzau
+
+Braila|Braila
+
+Tulcea|Tulcea
+
+Gorj|Targu Jiu
+
+Dolj|Craiova
+
+Olt|Slatina
+
+Arges|Pitesti
+
+Teleorman|Alexandria
+
+Prahova|Ploiesti
+
+Ilfov|Bucuresti
+
+Ialomita|Slobozia
+
+Calarasi|Calarasi
+
+Giurgiu|Giurgiu
+
+Constanta|Constanta
